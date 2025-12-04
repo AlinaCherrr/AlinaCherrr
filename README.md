@@ -35,7 +35,7 @@
 - CSS3, БЭМ
 - JavaScript
 - TypeScript
-- React
+- React, Vue
 - Figma
 - Git и GitHub, npm, DevTools
 - Python, C++, CMake, SQL
